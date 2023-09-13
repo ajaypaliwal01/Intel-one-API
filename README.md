@@ -1,4 +1,4 @@
-# Intel-one-API Online AI Hackathon
+# Intel-one-API Online AI Hackathon: Agrify🌿
 Team Name: Team Data Warriors   
 Team Members: Chinmay Gupta, Ajay Paliwal, Alok Kumar Roy  
 Institute: Indian Institute of Technology Kharagpur, West Bengal, India 
@@ -17,8 +17,8 @@ Institute: Indian Institute of Technology Kharagpur, West Bengal, India
 • An optimal utilisation of our proposed Agrify application would help boost the crop production. It would reduce food shortages, generate more employment, and industrialise agriculture as the pillar of the Indian economy.
 
 ## Datasets
-[Crop Recommender System Dataset]('https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset')
-[Plant Disease Identification Dataset]('https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset')
+[Crop Recommender System Dataset]('https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset')!  
+[Plant Disease Identification Dataset]('https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset')!
 
 Agrify Web application: https://agrify.streamlit.app/  
 Video Demonstration: https://youtu.be/EbcqEDCrJ-A?si=Ozy8wPi1a53XBLJk  
