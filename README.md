@@ -3,9 +3,9 @@ Team Name: Team Data Warriors
 Team Members: Chinmay Gupta, Ajay Paliwal, Alok Kumar Roy
 Institute: Indian Institute of Technology Kharagpur, West Bengal
 ## Problem Statement: 
-• Agriculture sector in India holds the record for second-largest agricultural land in the world generating employment for about half of the country's population. However, its contribution accounts for only 20% to the country’s GDP. There is a need to increase the output of the sector to meet the ever-increasing demand. 
-• Indian farmers aren’t able to choose the optimal crop based on their soil requirements depending upon factors like N, P, K, temperature, humidity, rainfall, pH. 
-• About 30-35% of the annual crop yield in India gets wasted because of plant diseases and pest attacks.
+• Agriculture sector in India holds the record for second-largest agricultural land in the world generating employment for about half of the country's population. However, its contribution accounts for only 20% to the country’s GDP. There is a need to increase the output of the sector to meet the ever-increasing demand.  
+• Indian farmers aren’t able to choose the optimal crop based on their soil requirements depending upon factors like N, P, K, temperature, humidity, rainfall, pH.   
+• About 30-35% of the annual crop yield in India gets wasted because of plant diseases and pest attacks.  
 
 ## Solution: 
 • Many new technologies, such as Machine Learning and Deep Learning, are being implemented into agriculture so that it is easier for farmers to grow and maximize their yield. 
